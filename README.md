@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @alighavami
 - 👀 I’m interested in Robotics, Machine Learning, Programming, Data Science, ...
-- 🌱 I’m currently learning C++, Django, ... 
 - 💞️ I’m looking to collaborate on related programs.
 - 📫 How to reach me ... --> alii.gavamii97@gmail.com
 
